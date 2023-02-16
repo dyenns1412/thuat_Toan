@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675964025 source:d:\thuat_toan_trong _attt\chuoisonguyento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
