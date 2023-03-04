@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677789212 source:d:\thuat_toan_trong _attt\cau 31\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

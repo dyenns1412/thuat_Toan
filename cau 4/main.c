@@ -103,4 +103,5 @@ int main()
             printf("%d  ",i);
         }
     }
+    system("pause");
 }

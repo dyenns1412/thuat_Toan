@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677085173 source:d:\thuat_toan_trong _attt\sonttheothuattoanmb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
