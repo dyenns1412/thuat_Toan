@@ -40,7 +40,7 @@ int get_e(int phi_n)
     {
         e = rand() % (phi_n - 2) + 2; // 2 <= e < phi(n)
     }
-    e = 17;
+
     return e;
 }
 
@@ -120,6 +120,5 @@ int main()
     c = encrypt_Decrypt(sbd, e, n);
     m = encrypt_Decrypt(c, d, n);
     printf("%d\n%d\n", c, m);
-    printf("bye");
     system("pause");
 }
